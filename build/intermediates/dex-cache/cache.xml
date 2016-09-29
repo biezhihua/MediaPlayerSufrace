@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/exploded-aar/ijkplayer-armv7a-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b5f9a01d221fa3d7fa47aeb3a989880d4364639">
+        <dex dex="/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-ijkplayer-armv7a-release_d378470625e0d4df5a861789d16e6dfc373f6c36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e1705b455817d3f14683580630f05859efd9235b">
+        <dex dex="/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d9d9be3e5fb3eb44482b7219abc39d54e2d3d78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/exploded-aar/ijkplayer-java-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a02552b9b5e48969a034dac972c27a936b560d7f">
+        <dex dex="/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-ijkplayer-java-release_17fa2af47c2dd4d8385971aea5a1cb15862a2e7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fc743600a09ebfbcce81548e23cac67982ca549d">
+        <dex dex="/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c1fa90fe0954407eb45d56336559a378a11ab89/classes.dex" />
+    </item>
+
+</items>

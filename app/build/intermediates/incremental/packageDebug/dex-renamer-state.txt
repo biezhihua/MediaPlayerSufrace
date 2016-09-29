@@ -1,0 +1,7 @@
+#Wed Sep 28 19:57:21 CST 2016
+base.0=/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d9d9be3e5fb3eb44482b7219abc39d54e2d3d78
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c1fa90fe0954407eb45d56336559a378a11ab89/classes.dex
+base.1=/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c1fa90fe0954407eb45d56336559a378a11ab89
+file.0=/Users/biezhihua/Documents/workspace/MediaPlayerSurface1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d9d9be3e5fb3eb44482b7219abc39d54e2d3d78/classes.dex
